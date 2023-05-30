@@ -5,4 +5,6 @@ fun main(args:Array<String>){
     print("Kotlin start")
 
     print("Kotlin weekend")
+
+    print("Kotlin tuesday")
 }
