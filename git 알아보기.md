@@ -24,6 +24,11 @@
 ![image](https://github.com/HappyRiverSea/gitPractice/assets/118653760/10b06f0c-f8ca-4f3d-ad76-0167afece28d)
 
 # 우리는 어떤 git branch 전략을 사용해야 할까?
+## Merge를 한다면 알아보기 어려울까?
+BCHDEV-001_WORK 브랜치 딴 후 -> MASTER에 새로운 커밋 -> BCHDEV-001_WORK를 MASTER에 머지 -> BCHDEV-002_WORK 브랜치 땀
+![KakaoTalk_20230606_191315889](https://github.com/HappyRiverSea/gitPractice/assets/118653760/1d6c349e-a14b-49e4-8cdb-9b8c70a09173)
+
+
 
 참고: [git의 다양한 머지 전략 비교](https://inmoonlight.github.io/2021/07/11/Git-merge-strategy/)
 
