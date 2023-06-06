@@ -28,6 +28,8 @@
 BCHDEV-001_WORK 브랜치 딴 후 -> MASTER에 새로운 커밋 -> BCHDEV-001_WORK를 MASTER에 머지 -> BCHDEV-002_WORK 브랜치 땀
 ![KakaoTalk_20230606_191315889](https://github.com/HappyRiverSea/gitPractice/assets/118653760/1d6c349e-a14b-49e4-8cdb-9b8c70a09173)
 
+## 현재 기업뱅킹은 주석에 브랜치명을 써서 검색하고 있다.
+
 
 
 참고: [git의 다양한 머지 전략 비교](https://inmoonlight.github.io/2021/07/11/Git-merge-strategy/)
